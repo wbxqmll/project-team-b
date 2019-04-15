@@ -21,6 +21,9 @@ You are allowed to use any software (git commands, GitHub web, Atom, etc.) to in
 - There may be a lot of review requests of issues and pull requests (when people are adding files). Please carefully check the relevant tasks if they are done well, and choose to **Comment** or **Approve**.
 - After reviewing that an issue is done correctly, you can close it (with comments)
 - After reviewing that a pull request is okay to merge, merge it and close the request (with comments)
+
+## Workload constraints
+- Every student should be assigned to **no more than ONE** issue
 - Every student should make **no more than TWO** reviews
 
 ## Submission deadline
