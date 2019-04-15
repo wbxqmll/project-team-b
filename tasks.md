@@ -14,22 +14,23 @@ Since the master branch is protected, you must create a pull request for every f
 2. Under the **Projects** tab of your team, (when Issue #3 is done) in the project board, create a new card under **To do** and introduce yourself
 3. There are 5 items to be finished in the **`issues`** folder, please do them in the order #1 -> #2 -> #3 -> #4 -> #5 (team work)
 4. If you want to work on that issue, go to the **Issues** tab and create an issue with the name and contents in `issues/taskX.md`, then *assign yourself to this issue*
-5. After you are done, pick any reviewer that's available (but not @chuckjee or @wbwuta), or you may need to wait when more people join your team
+5. After you are done, assign another team member that can help you double check (but not @chuckjee or @wbwuta), or you may need to wait when more people join your team
 6. Be an effective and efficient reviewer
 7. Put down proper comments in every request and review
 8. When Issue #2 is done, please check the **`readme.md`** file and add your own line in **Contributors**
 9. When you consider all your individual work is done, please go to the **Projects** board and move your intro to **Done**
 
 ## Reviewing
-- There may be a lot of review requests of issues and pull requests (when people are adding files). Please carefully check the relevant tasks if they are done well, and choose to **Comment** or **Approve**.
+- There may be a lot of review requests of issues and pull requests (when people are adding files). Keep an eye on the **Pull requests** and **Issues** for any assigned reviews in the top GitHub menu.
+- If requested, please carefully check the relevant tasks if they are done well, and choose to **Comment**, **Approve**, or **Request changes**
 - After checking that an issue is done correctly, you can close it (with comments)
 - After reviewing that a pull request is okay to merge, merge it and close the request (with comments)
 
 ## Workload constraints
 - Part of your work is graded individually, but mainly collectively as a team
 - Your contribution to the 5 issues, reviews, and discussions will be considered in grading
-- Every student should be assigned to **no more than ONE** issue
-- Every student should make **no more than TWO** reviews
+- Every student should work on **no more than ONE** issue
+- Every student should make **no more than TWO** reviews / issue close
 - Since some issues may not be done yet when you join, you may have to "watch" the repo so that you come back later to finish all your individual tasks
 
 ## Submission deadline
