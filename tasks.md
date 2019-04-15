@@ -1,6 +1,6 @@
 # CSCI3250+3251 Project Milestone #3
 
-Welcome! You are now assigned into a team with a number of your classmates, randomly. You are not sure who are in this group, and when they would start working. Now please read this document ***very carefully***.
+Welcome! You are now assigned into a team with a number of your classmates, randomly. You are not sure who are in this group, and when they would start working. Now please read this document ***very carefully***. You may need to check this repo from time to time after some tasks.
 
 ## Tools to use
 You may feel free to use any software (git commands, GitHub web, Atom, etc.) to interact with the system.
@@ -18,7 +18,7 @@ Since the master branch is protected, you must create a pull request for every f
 6. Be an effective and efficient reviewer
 7. Put down proper comments in every request and review
 8. When Issue #2 is done, please check the **`readme.md`** file and add your own line in **Contributors**
-9. When you consider all your individual work is done, please go to the **Projects** board and move your intro to **Done**
+9. When you consider all your individual work done, please go to the **Projects** board and move your intro (step 2 above) to **Done**
 
 ## Reviewing
 - There may be a lot of review requests of issues and pull requests (when people are adding files). Keep an eye on the **Pull requests** and **Issues** for any assigned reviews in the top GitHub menu.
