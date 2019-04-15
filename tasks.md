@@ -12,7 +12,7 @@ You are allowed to use any software (git commands, GitHub web, Atom, etc.) to in
 3. There may be issues in **Issues**, so please do it in the order #1 -> #2 -> #3 -> #4 -> #5 (although it may still work if not obeyed)
 4. If you want to work on that issue, assign yourself to the issue (and others SHOULD NOT double assign!!)
 5. After you are done, pick any reviewer that's available (but not @chuckjee or @wbwuta)
-6. Be a effective and efficient reviewer
+6. Be an effective and efficient reviewer
 7. Put down proper comments in every request
 8. When Issue #2 is done, please check the **`readme.md`** file and add your own line in **Contributors**
 9. When you consider all your work is done, please go to the **Projects** board and more your intro to **Done**
