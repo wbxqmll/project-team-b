@@ -9,7 +9,7 @@ You may feel free to use any software (git commands, GitHub web, Atom, etc.) to 
 Since the master branch is protected, you must create a pull request for every file edit, and have it reviewed by another team member so that it can be merged into the master branch.
 
 ## Your tasks to finish
-0. Feel free to discuss in the team discussion board, owned by your team
+0. Feel free to discuss in the team discussion board inside https://github.com/orgs/csci3250-2019/teams/ , owned by your team
 1. In the folder **`_stu`**, create a file named `1155xxxxxx.md` (with your own SID), having the contents only as your full name, with your GitHub username
 2. Under the **Projects** tab of your team, (when Issue #3 is done) in the project board, create a new card under **To do** and introduce yourself
 3. There are 5 items to be finished in the **`issues`** folder, please do them in the order #1 -> #2 -> #3 -> #4 -> #5 (team work)
@@ -32,6 +32,10 @@ Since the master branch is protected, you must create a pull request for every f
 - Every student should work on **no more than ONE** issue
 - Every student should make **no more than TWO** reviews / issue close
 - Since some issues may not be done yet when you join, you may have to "watch" the repo so that you come back later to finish all your individual tasks
+
+## Questions?
+- In issues or pull requests, just summon @chuckjee for any questions
+- You may also post in the Students team discussion (https://github.com/orgs/csci3250-2019/teams/students)
 
 ## Submission deadline
 Everything will be finalised by **April 24 23:59**
