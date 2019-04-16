@@ -1,5 +1,7 @@
 # #2: Include data into readme
 
+You are going to update this website: `https://csci3250-2019.github.io/(repo name)`
+
 Please read about **`include_relative`** on this page: https://jekyllrb.com/docs/includes/
 
 Here are your tasks:
