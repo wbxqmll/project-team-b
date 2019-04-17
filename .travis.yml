@@ -1,2 +1,2 @@
 language: c
-script: code.c
+script: ./code
