@@ -12,7 +12,6 @@ int main()
    printf("OMG! There's totally %d kcal !!!\n", num*217);  
    return 0;  
 }  
-[![Build Status](https://travis-ci.org/csci3250-2019/project-team-b.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-b)
 
 ## Contributors
 
