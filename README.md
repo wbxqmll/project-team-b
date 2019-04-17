@@ -1,5 +1,13 @@
 ## Introduction
-This repo uses Github to host a mini-website and includes a code snippet written in **C**. This project is managed using Kanban. This repo serves as **Project MileStone 3** for CSCI 3250-3251 where we will also practice the use of **include_relative**.
+* Task1: 
+
+* Task2: This repo serves as **Project MileStone 3** for CSCI 3250-3251 where we will also practice the use of       **include_relative**.
+
+* Task3: This repo teaches us to use **Kanban** template for automation in project board .
+
+* Task4: This repo uses Github to host a mini-website and includes a code snippet written in **C**.
+
+* Task5:
 
 ## Code
 #include <stdio.h>  
