@@ -12,9 +12,10 @@ int main()
    printf("OMG! There's totally %d kcal !!!\n", num*217);  
    return 0;  
 }  
-[![Build Status](https://travis-ci.org/csci3250-2019/project-team-b.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-b)
 
 ## Contributors
 
 * **Choi Ki Fung, Kiros** - *Task 1* - [KirosC](https://github.com/KirosC)
 * **Andy Nguyen** [Andynguyen1](https://github.com/csci3250-2019/project-team-b/blob/master/_stu/1155128997.md)
+* **But Chi Hin** [bpr4110](https://github.com/csci3250-2019/project-team-b/blob/master/_stu/1155110269.md)
+* **Ali Ahad Mukhida** [AliAhad](https://github.com/csci3250-2019/project-team-b/blob/master/_stu/1155096576.md)
