@@ -1,5 +1,6 @@
+
 ## Introduction
-* Task1: 
+* Task1: This repo help us to familiarize writing **README** using **Markdown**.
 
 * Task2: This repo serves as **Project MileStone 3** for CSCI 3250-3251 where we will also practice the use of       **include_relative**.
 
@@ -7,7 +8,7 @@
 
 * Task4: This repo uses Github to host a mini-website and includes a code snippet written in **C**.
 
-* Task5:
+* Task5: Promote our work to everyone!
 
 ## Code
 ```c
