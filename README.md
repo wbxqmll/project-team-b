@@ -17,7 +17,6 @@
 ## Contributors
 
 * {% include_relative _stu/1155096576.md %}
-
 * {% include_relative _stu/1155109349.md %}
 * {% include_relative _stu/1155110142.md %}
 * {% include_relative _stu/1155110269.md %}
