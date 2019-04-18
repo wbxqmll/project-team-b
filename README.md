@@ -10,7 +10,9 @@
 * Task5:
 
 ## Code
-{% include_relative code.c %}  
+```c
+{% include_relative code.c %}
+```
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-b.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-b)
 ## Contributors
 
@@ -22,4 +24,4 @@
 * {% include_relative _stu/1155128997.md %}
 * {% include_relative _stu/1155108739.md %}
 
-Last Edit Time: {site.time}
+Last Edit Time: {{site.time}}
