@@ -14,8 +14,12 @@
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-b.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-b)
 ## Contributors
 
-* **Choi Ki Fung, Kiros** - *Task 1* - [KirosC](https://github.com/KirosC)
-* **Andy Nguyen** [Andynguyen1](https://github.com/csci3250-2019/project-team-b/blob/master/_stu/1155128997.md)
-* **But Chi Hin** [bpr4110](https://github.com/csci3250-2019/project-team-b/blob/master/_stu/1155110269.md)
-* **Ali Ahad Mukhida** [AliAhad](https://github.com/csci3250-2019/project-team-b/blob/master/_stu/1155096576.md)
-* **KAM Wing Hang** [coffee-hamster](https://github.com/coffee-hamster)
+* {% include_relative _stu/1155096576.md %}
+* {% include_relative _stu/1155109349.md %}
+* {% include_relative _stu/1155110142.md %}
+* {% include_relative _stu/1155110269.md %}
+* {% include_relative _stu/1155112408.md %}
+* {% include_relative _stu/1155128997.md %}
+* {% include_relative _stu/1155108739.md %}
+
+Last Edit Time: {site.time}
