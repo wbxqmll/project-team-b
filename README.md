@@ -1,14 +1,14 @@
 
 ## Introduction
-* Task1: This repo help us to familiarize writing **README** using **Markdown**.
+* Task1: This repo help us to set up **READ.ME** (using **Markdown**).
 
-* Task2: This repo serves as **Project MileStone 3** for CSCI 3250-3251 where we will also practice the use of       **include_relative**.
+* Task2: This repo serves as **Project MileStone 3** for CSCI 3250-3251 where we need to use **include_relative** while editing **READ.ME** 
 
 * Task3: This repo teaches us to use **Kanban** template for automation in project board .
 
 * Task4: This repo uses Github to host a mini-website and includes a code snippet written in **C**.
 
-* Task5: Promote our work to everyone!
+* Task5: Promote our work in CSCI3250 organization.
 
 ## Code
 ```c
@@ -31,3 +31,4 @@
 * {% include_relative _stu/1155107934.md %}
 
 Last Edit Time: {{site.time}}
+
