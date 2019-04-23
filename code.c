@@ -2,7 +2,8 @@
 int main()
 {
    unsigned int num;
-   printf("I like egg tarts.");
+   printf("Hi\n");
+   printf("I like egg tarts.\n");
    printf("How many egg tarts have I eaten today?\n");
    scanf("%u", &num);
    printf("OMG! There's totally %d kcal !!!\n", num*217);
