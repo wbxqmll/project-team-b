@@ -2,6 +2,7 @@
 int main()
 {
    unsigned int num;
+   printf("Hi\n");
    printf("I like egg tarts.");
    printf("How many egg tarts have I eaten today?\n");
    scanf("%u", &num);
